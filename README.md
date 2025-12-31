@@ -24,7 +24,8 @@ The outdoor transmitter periodically reads temperature and humidity from its DHT
 🚀 Steps
 1. **Wiring the Circuits**  
    Build according to the build photo
-
+### Final Prototype Build
+![Final Prototype Photo](Final_prototype_Weather_Station.png)
 2. **Installing Libraries**  
    In Arduino IDE → Sketch → Include Library → Manage Libraries, install:  
    - RF24 (by TMRh20)  
