@@ -62,4 +62,4 @@ The display updates every second with time, local readings, and remote readings 
 **Saptarshi Das**
 
 📜 License
-This project is licensed under the MIT License - see the 
+This project is licensed under the MIT License 
